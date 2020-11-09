@@ -10,7 +10,7 @@
  + <h2> Parky </h2> <span>using Api Restfull, Swagger, repositories and migrations  https://github.com/JoaoLuizDeveloper/Parky</span>
  + <h2> FluentAPI </h2> <span> https://github.com/JoaoLuizDeveloper/UtilizandoFluentAPI </span>
  + <h2> Projeto Questor Sistemas </h2> <span> Administrator, Api and Website in one project  https://github.com/JoaoLuizDeveloper/ProjetoQuestorSistemas </span>
- + <h2> Clean Architect </h2> <span> https://github.com/JoaoLuizDeveloper/CleanArchitect </span>
+ + <h2> Clean Architect DDD </h2> <span> https://github.com/JoaoLuizDeveloper/CleanArchitect </span>
  + <h2> Begining to use AWS Cognito </h2> <span> https://github.com/JoaoLuizDeveloper/WebAdvert.Web </span> <span> https://github.com/JoaoLuizDeveloper/WebAdvert.API </span>
  
  <h3> You can also check it out my Linkedin and some videos that I record. </h3>
