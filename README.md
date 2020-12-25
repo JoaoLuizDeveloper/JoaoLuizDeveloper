@@ -6,11 +6,12 @@
 
 <h2> Go ahead and check it out my another projects </h2>
 
- + <h2> Projeto Tempus </h2> <span> using repositories, unit of work and migrations https://github.com/JoaoLuizDeveloper/ProjetoTempus </span> 
- + <h2> Projeto Built Code </h2> <span> using Angular, ApiRestFull, repositories, migrations https://github.com/JoaoLuizDeveloper/ProjetoBuiltCode </span> 
+ + <h2> Architetura Modelo e Data Separados </h2> <span> using repositories, unit of work and migrations https://github.com/JoaoLuizDeveloper/ModeloDataSeparados </span>
+ + <h2> Projeto Angular </h2> <span> using Angular, ApiRestFull, repositories, migrations https://github.com/JoaoLuizDeveloper/ProjetoUsingAngular </span> 
+ + <h2> Using ApiRestFull and Console Aplication </h2> <span> ApiRestFull, repositories, migrations https://github.com/JoaoLuizDeveloper/Using-ApiRestfull </span>
  + <h2> Parky </h2> <span>using Api Restfull, Swagger, repositories and migrations  https://github.com/JoaoLuizDeveloper/Parky</span>
  + <h2> FluentAPI </h2> <span> https://github.com/JoaoLuizDeveloper/UtilizandoFluentAPI </span>
- + <h2> Projeto Questor Sistemas </h2> <span> Administrator, Api and Website in one project  https://github.com/JoaoLuizDeveloper/ProjetoQuestorSistemas </span>
+ + <h2> Projeto Basico Gestor-Site </h2> <span> Administrator, Api and Website in one project  https://github.com/JoaoLuizDeveloper/BasicoGestor-Site </span>
  + <h2> Clean Architect DDD </h2> <span> https://github.com/JoaoLuizDeveloper/CleanArchitect </span>
  + <h2> Begining to use AWS Cognito </h2> <span> https://github.com/JoaoLuizDeveloper/WebAdvert.Web </span> <span> https://github.com/JoaoLuizDeveloper/WebAdvert.API </span>
  + <h2> Learning About Unit Tests (XUnit and .Net) </h2> <span> https://github.com/JoaoLuizDeveloper/Learning-about-Tests </span> 
