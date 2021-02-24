@@ -6,6 +6,7 @@
 
 <h2> Go ahead and check it out my another projects </h2>
 
+ + <h2> Luby Project using Angular, React front-end, API Restfull, SOLID, .net core 3.1</h2> <span> using repositories, unit of work and migrations https://github.com/JoaoLuizDeveloper/LubyTechProject </span>
  + <h2> Architecture Model and Data splited </h2> <span> using repositories, unit of work and migrations https://github.com/JoaoLuizDeveloper/ModeloDataSeparados </span>
  + <h2> Projeto Angular </h2> <span> using Angular, ApiRestFull, repositories, migrations https://github.com/JoaoLuizDeveloper/ProjetoUsingAngular </span> 
  + <h2> Using ApiRestFull and Console Aplication </h2> <span> ApiRestFull, repositories, migrations https://github.com/JoaoLuizDeveloper/Using-ApiRestfull </span>
