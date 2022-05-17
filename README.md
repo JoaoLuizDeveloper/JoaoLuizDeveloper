@@ -2,7 +2,7 @@
 
 <h1> JoaoLuizDeveloper.Net ✨ _Welcome to my Git Hub_ ✨. </h2>
 
-+ <h2> 🤔 I’m currently working on... Build a new Project using all my current Knowledge, with Api, Admin, website. using Repositories, unit of work, api Restfull, dataTables, beatifull templates, clean architecture and then I'll record a video in English and Portuguese, teaching about the project.</h2>
++ <h2> 🤔 I’m currently working on... Build a new Project using all my current Knowledge, with Api, Admin, website. using Repositories, unit of work, api Restfull, dataTables, beatifull templates, clean architecture.</h2>
 
 <h2> Go ahead and check it out my another projects </h2>
 
@@ -26,4 +26,4 @@
 + https://www.youtube.com/watch?v=BhWrfT9m6Jw&t=2s  
 + https://www.youtube.com/watch?v=MmC-KDUbppU&t=5s
 
-+ Feel comfortable to ask me anything on linkedin
++ Feel free to ask me anything on linkedin
