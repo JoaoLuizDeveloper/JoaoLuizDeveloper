@@ -5,7 +5,8 @@
 + <h2> 🤔 I’m currently working on... Build a new Project using all my current Knowledge, with Api, Admin, website. using Repositories, unit of work, api Restfull, dataTables, beatifull templates, clean architecture.</h2>
 
 <h2> Go ahead and check it out my another projects </h2>
-
+https://github.com/JoaoLuizDeveloper/JoaoLuizDeveloperProject
+ + <h2> Personal Project using .Net 6</h2> <span> using repositories, aplications, unit tests, integration tests, unit of work and migrations https://github.com/JoaoLuizDeveloper/JoaoLuizDeveloperProject </span>
  + <h2> Triade Project using .Net 6</h2> <span> using repositories, unit of work and migrations https://github.com/JoaoLuizDeveloper/Triade </span>
  + <h2> Luby Project using front-ent (AngularJS, ReactJS), API Restfull, SOLID, .net core 3.1</h2> <span> using repositories, unit of work and migrations https://github.com/JoaoLuizDeveloper/LubyTechProject </span>
  + <h2> Architecture Model and Data splited </h2> <span> using repositories, unit of work and migrations https://github.com/JoaoLuizDeveloper/ModeloDataSeparados </span>
