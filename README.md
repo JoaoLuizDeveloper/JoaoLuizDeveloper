@@ -6,6 +6,8 @@
 
 <h2> Go ahead and check it out my another projects </h2>
 https://github.com/JoaoLuizDeveloper/JoaoLuizDeveloperProject
+<h2>Projeto Regrassão linear Machine learning com python</h2> <span> TechChallengerPhase1 https://github.com/JoaoLuizDeveloper/TechChallengerPhase1</span>
+
  <h2> Personal Project using .Net 6</h2> <span> using repositories, aplications, unit tests, integration tests, unit of work and migrations https://github.com/JoaoLuizDeveloper/JoaoLuizDeveloperProject </span>
  
  <h2> Triade Project using .Net 6</h2> <span> using repositories, unit of work and migrations https://github.com/JoaoLuizDeveloper/Triade </span>
