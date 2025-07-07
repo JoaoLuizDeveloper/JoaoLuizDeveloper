@@ -11,15 +11,15 @@
 https://github.com/JoaoLuizDeveloper/JoaoLuizDeveloperProject
 
  <h2>✅ Design Patterns</h2> <span>Includes Singleton, Factory, Strategy, Observer, Decorator, and Builder—patterns that promote flexibility, reuse, and scalable software design.</span> <br />
- https://github.com/JoaoLuizDeveloper/JoaoLuizDeveloperProject
+ https://github.com/JoaoLuizDeveloper/DesignerPatternAPI
 
  <h2> ✅ Architectural Pattern – CQRS </h2> <span>Separates read and write operations into distinct models, improving clarity, maintainability, and scalability—ideal for complex systems with differing data needs.</span> <br />
- https://github.com/JoaoLuizDeveloper/JoaoLuizDeveloperProject
+ https://github.com/JoaoLuizDeveloper/ArquitecturePatternAPI
 
  <h2>✅ FinancialProject – DDD & OOP Principles</h2> <span>Applies Domain-Driven Design and OOP concepts like abstract classes, inheritance, polymorphism, and shared behaviors to create maintainable, business-focused systems.</span> <br />
- https://github.com/JoaoLuizDeveloper/JoaoLuizDeveloperProject
+ https://github.com/JoaoLuizDeveloper/FinancialProject
 
- <h2>Projeto Regrassão linear Machine learning com python</h2> <span> TechChallengerPhase1 https://github.com/JoaoLuizDeveloper/TechChallengerPhase1</span>
+ <h2>Projeto Regressão linear Machine learning com python</h2> <span> TechChallengerPhase1 https://github.com/JoaoLuizDeveloper/TechChallengerPhase1</span>
 
  <h2> Personal Project using .Net 6</h2> <span> using repositories, aplications, unit tests, integration tests, unit of work and migrations https://github.com/JoaoLuizDeveloper/JoaoLuizDeveloperProject </span>
  
