@@ -4,6 +4,9 @@
 
 + <h2> 🤔 I’m currently working on... Build a new Project using all my current Knowledge, with Api, Admin, website. using Repositories, unit of work, api Restfull, dataTables, beatifull templates, clean architecture.</h2>
 
+<h2> Watch this video. I'm showing my Github and WebPage with some personal projects made </h2>
+https://youtu.be/Tgi2GDnW6Jc
+
 <h2> Go ahead and check it out my another projects </h2>
 https://github.com/JoaoLuizDeveloper/JoaoLuizDeveloperProject
 
