@@ -12,12 +12,19 @@ https://github.com/JoaoLuizDeveloper/JoaoLuizDeveloperProject
 
  <h2>✅ Design Patterns</h2> <span>Includes Singleton, Factory, Strategy, Observer, Decorator, and Builder—patterns that promote flexibility, reuse, and scalable software design.</span> <br />
  https://github.com/JoaoLuizDeveloper/DesignerPatternAPI
+ Video: https://youtu.be/sV3hJ2mVb90
 
  <h2> ✅ Architectural Pattern – CQRS </h2> <span>Separates read and write operations into distinct models, improving clarity, maintainability, and scalability—ideal for complex systems with differing data needs.</span> <br />
  https://github.com/JoaoLuizDeveloper/ArquitecturePatternAPI
+ Video: https://youtu.be/dkq6jQvN9JE
 
  <h2>✅ FinancialProject – DDD & OOP Principles</h2> <span>Applies Domain-Driven Design and OOP concepts like abstract classes, inheritance, polymorphism, and shared behaviors to create maintainable, business-focused systems.</span> <br />
  https://github.com/JoaoLuizDeveloper/FinancialProject
+ Video: https://youtu.be/9X_GpdSLcLQ
+
+ <h2>✅ Rabbit MQ Project – DDD, RabitMQ & OOP Principles</h2> <span>Applies Rabbit MQ, Docker, Domain-Driven Design and OOP concepts like abstract classes, inheritance, polymorphism.</span> <br />
+ https://github.com/JoaoLuizDeveloper/CriptoControl2
+ Video: https://youtu.be/-C9XG8B7zOk
 
  <h2>Projeto Regressão linear Machine learning com python</h2> <span> TechChallengerPhase1 https://github.com/JoaoLuizDeveloper/TechChallengerPhase1</span>
 
